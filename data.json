@@ -2358,7 +2358,7 @@
       "password": "Qwerty123",
       "role": "user",
       "addresses": [
-        {
+        { 
           "name": "Abhishek Rathore",
           "email": "test@gmail.com",
           "phone": "1234567788",
